@@ -1,6 +1,6 @@
-# Visualizador de Imagens
+# Efeito Dinâmico de Revelação
 
-O Visualizador de Imagens é uma aplicação que permite visualizar imagens de forma interativa, facilitando a navegação e a visualização dos conteúdos.
+O Efeito Dinâmico de Revelação é uma página que utiliza efeitos visuais para revelar elementos do conteúdo de forma dinâmica e interativa.
 
 ## Tecnologias utilizadas
 
@@ -14,4 +14,4 @@ Projeto desenvolvido individualmente, com orientação e apoio do professor.
 
 ## Visualização
 
-[Ver projeto funcionando](https://laryssa-curso-tecnico.github.io/visualizador-de-imagens/)
+[Ver projeto funcionando](https://laryssa-curso-tecnico.github.io/efeito-dinamico-de-revelacao/)
